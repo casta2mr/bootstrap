@@ -1,0 +1,36 @@
+body {
+    padding-top: 3.5rem;
+    font-family: 'Raleway', sans-serif;
+}
+img {
+    margin: auto;
+    height: 400px;
+}
+h1 {
+    font-family: 'Odibee Sans', cursive;
+}
+h2 {
+    font-family: 'Odibee Sans', cursive;
+}
+h3 {
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+.jumbotron {
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+.carousel {
+    width:400px;
+    margin: auto;
+}
+#homecarousel {
+    width: 500px;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    filter: invert(1);
+}
+a {
+    color: #3894b0;
+}
